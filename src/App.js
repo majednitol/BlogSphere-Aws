@@ -7,7 +7,7 @@ import {
 } from './graphql/queries';
 import {
   createBlog,
-  updateBlog,
+  updateBlog, 
   deleteBlog,
   createPost,
   updatePost,
